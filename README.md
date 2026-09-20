@@ -33,3 +33,4 @@ Danach kann die Anwendung über die angezeigte lokale Adresse im Browser geöffn
 - Vue 3
 - TypeScript
 - Vite
+- css wurde mithilfe von KI erstellt
